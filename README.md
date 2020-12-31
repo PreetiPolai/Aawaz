@@ -32,10 +32,11 @@ the application.The App shares real time location, secured encoded SMS and user 
 <img src="https://user-images.githubusercontent.com/71027537/103398224-c4c3a880-4b61-11eb-9b3c-8e2645957999.jpg" alt="Screenshot1" width="320"/>
 - Maps page 
 <img src="https://user-images.githubusercontent.com/71027537/103398553-34866300-4b63-11eb-8bc5-68507ef94e94.jpg" alt="Screenshot1" width="320"/>
-- Secure messaging 
-<img src="https://user-images.githubusercontent.com/71027537/103398760-13724200-4b64-11eb-9ffa-467781062bae.png" alt="Screenshot1" width="320"/>
-<img src="https://user-images.githubusercontent.com/71027537/103398785-31d83d80-4b64-11eb-9ab3-2b1c93996944.png" alt="Screenshot1" width="320"/>
-
-
+- Secure messaging (Encrypted version)
+<img src="https://user-images.githubusercontent.com/71027537/103398964-e2464180-4b64-11eb-8002-e239ff3d2ecb.jpeg" alt="Screenshot1" width="320"/>
+<img src="https://user-images.githubusercontent.com/71027537/103398975-f68a3e80-4b64-11eb-8a3e-4d047a9d6778.jpeg" alt="Screenshot1" width="320"/>
+- Emergency button
+<img src="https://user-images.githubusercontent.com/71027537/103399003-128de000-4b65-11eb-845f-d42ed92a8590.jpeg" alt="Screenshot1" width="320"/>
+<img src="https://user-images.githubusercontent.com/71027537/103399013-21749280-4b65-11eb-9af2-3bd001d597cb.jpeg" alt="Screenshot1" width="320"/>
 
 
