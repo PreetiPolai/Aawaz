@@ -64,12 +64,12 @@ the application.The App shares real time location, secured encoded SMS and user 
 ## Development
  The app makes use of the following technologies:
  
- * Java ascore programming language for Android Development
+ * Java as core programming language for Android Development
  * App makes use of the new and improved `AndroidX` libraries in place of the `Support Libraries`
- * Firestorage (as the No-SQL database)
- * Firebase realtime database
+ * Firestorage (for storage of data)
+ * Firebase realtime database (for realtime data)
  * Material Components (for implementing the new material design)
- * Volley (for data fetching through network calls)
+ * Volley (for fetching data through network calls)
  * Glide (for image loading)
  * GSON (For Json to Java object mapping )
  * Butterknife(For binding view )
