@@ -61,6 +61,21 @@ the application.The App shares real time location, secured encoded SMS and user 
 <img src="https://user-images.githubusercontent.com/71027537/103399003-128de000-4b65-11eb-845f-d42ed92a8590.jpeg" alt="Screenshot1" width="320"/>
 <img src="https://user-images.githubusercontent.com/71027537/103399013-21749280-4b65-11eb-9af2-3bd001d597cb.jpeg" alt="Screenshot1" width="320"/>
 
+## Development
+ The app makes use of the following technologies:
+ 
+ * Java ascore programming language for Android Development
+ * App makes use of the new and improved `AndroidX` libraries in place of the `Support Libraries`
+ * Firestorage (as the No-SQL database)
+ * Firebase realtime database
+ * Material Components (for implementing the new material design)
+ * Volley (for data fetching through network calls)
+ * Glide (for image loading)
+ * GSON (For Json to Java object mapping )
+ * Butterknife(For binding view )
+
+And a couple more!
+
 ## Developers
 
  * [Preeti Polai](https://github.com/PreetiPolai)
